@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/bitcoin-treasury/commit/6b199a06efc87493eb3848ffc8bdc37688220c09",
       "git:hexsha": "6b199a06efc87493eb3848ffc8bdc37688220c09",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
