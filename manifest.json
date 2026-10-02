@@ -38,6 +38,151 @@
       ],
       "ast": [
         "aggregate/ast/6b199a06efc87493eb3848ffc8bdc37688220c09/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6b199a06efc87493eb3848ffc8bdc37688220c09.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "classnames",
+          "ecosystem": "NPM",
+          "version": "2.5.1",
+          "githubOrg": "JedWatson",
+          "githubRepo": "classnames",
+          "githubCommit": "2e3683264bab067d13938b5eb03a96391a089cb4",
+          "githubTag": "v2.5.1",
+          "githubUrl": "git+https://github.com/JedWatson/classnames.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "lodash",
+          "ecosystem": "NPM",
+          "version": "4.17.21",
+          "githubOrg": "lodash",
+          "githubRepo": "lodash",
+          "githubCommit": "f299b52f39486275a9e6483b60a410e06520c538",
+          "githubTag": "4.17.21",
+          "githubUrl": "git+https://github.com/lodash/lodash.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "next",
+          "ecosystem": "NPM",
+          "version": "16.0.10",
+          "githubOrg": "vercel",
+          "githubRepo": "next.js",
+          "githubCommit": "581dee67e280b96c0766172cbd5477102c03342b",
+          "githubTag": "v16.0.10",
+          "githubUrl": "git+https://github.com/vercel/next.js.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "next-themes",
+          "ecosystem": "NPM",
+          "version": "0.4.3",
+          "githubOrg": "pacocoursey",
+          "githubRepo": "next-themes",
+          "githubCommit": "d00d29c3886e65ce654b399d93f53b8b3b58076a",
+          "githubTag": "v0.4.3",
+          "githubUrl": "git+https://github.com/pacocoursey/next-themes.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "prop-types",
+          "ecosystem": "NPM",
+          "version": "15.8.1",
+          "githubOrg": "facebook",
+          "githubRepo": "prop-types",
+          "githubCommit": "70330a4430ba74467b41b8b4aa8c97a4814327a9",
+          "githubTag": "v15.8.1",
+          "githubUrl": "git+https://github.com/facebook/prop-types.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "react",
+          "ecosystem": "NPM",
+          "version": "19.2.1",
+          "githubOrg": "react",
+          "githubRepo": "react",
+          "githubCommit": "053df4e8561ef4caecef31c330f4178ac25e255b",
+          "githubTag": "v19.2.1",
+          "githubUrl": "git+https://github.com/react/react.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "react-dom",
+          "ecosystem": "NPM",
+          "version": "19.2.1",
+          "githubOrg": "react",
+          "githubRepo": "react",
+          "githubCommit": "053df4e8561ef4caecef31c330f4178ac25e255b",
+          "githubTag": "v19.2.1",
+          "githubUrl": "git+https://github.com/react/react.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/lodash",
+          "ecosystem": "NPM",
+          "version": "4.17.16",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/node",
+          "ecosystem": "NPM",
+          "version": "20",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/react",
+          "ecosystem": "NPM",
+          "version": "19.2.7",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "@types/react-dom",
+          "ecosystem": "NPM",
+          "version": "19.2.3",
+          "githubOrg": "DefinitelyTyped",
+          "githubRepo": "DefinitelyTyped",
+          "githubUrl": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "postcss",
+          "ecosystem": "NPM",
+          "version": "8",
+          "githubOrg": "postcss",
+          "githubRepo": "postcss",
+          "githubUrl": "git+https://github.com/postcss/postcss.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tailwindcss",
+          "ecosystem": "NPM",
+          "version": "3.4.1",
+          "githubOrg": "tailwindlabs",
+          "githubRepo": "tailwindcss",
+          "githubCommit": "7361468f77500105b0559e879e121f34306e8da2",
+          "githubTag": "v3.4.1",
+          "githubUrl": "https://github.com/tailwindlabs/tailwindcss.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "typescript",
+          "ecosystem": "NPM",
+          "version": "5",
+          "githubOrg": "microsoft",
+          "githubRepo": "TypeScript",
+          "githubUrl": "git+https://github.com/microsoft/TypeScript.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],
