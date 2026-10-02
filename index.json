@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "bitcoin-treasury",
+  "versions": [
+    {
+      "commit": "6b199a06efc87493eb3848ffc8bdc37688220c09",
+      "tag": "main",
+      "parsed_at": "2026-10-02T10:45:10.166021+00:00"
+    }
+  ]
+}
